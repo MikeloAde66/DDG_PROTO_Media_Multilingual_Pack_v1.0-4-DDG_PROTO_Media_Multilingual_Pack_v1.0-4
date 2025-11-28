@@ -1,0 +1,42 @@
+{
+  "headline": {
+    "en": "DDG‑PROTO Media Automation System",
+    "es": "Sistema de Automatización DDG‑PROTO Media",
+    "fr": "Système d’automatisation DDG‑PROTO Media",
+    "ar": "نظام أتمتة ‏DDG‑PROTO Media‏",
+    "hi": "DDG‑PROTO Media ऑटोमेशन सिस्टम",
+    "zh-CN": "DDG‑PROTO Media 自动化系统"
+  },
+  "tagline": {
+    "en": "What’s a million dollars worth investing in? A system that saves you a million in preventable loss.",
+    "es": "¿En qué vale la pena invertir un millón? En un sistema que te ahorra un millón en pérdidas evitables.",
+    "fr": "À quoi vaut‑il d’investir un million ? À un système qui vous évite un million de pertes évitables.",
+    "ar": "في ماذا يستحق المليون استثمارًا؟ في نظام يوفر لك مليونًا من الخسائر القابلة للتجنّب.",
+    "hi": "एक मिलियन डॉलर किस पर निवेश करें? ऐसे सिस्टम पर जो रोकी जा सकने वाली हानियों में आपका मिलियन बचाए।",
+    "zh-CN": "一百万美元值得投资于什么？值得投资于能避免一百万损失的系统。"
+  },
+  "cta_demo": {
+    "en": "Experience the Demo",
+    "es": "Ver la Demostración",
+    "fr": "Voir la Démo",
+    "ar": "جرّب العرض التوضيحي",
+    "hi": "डेमो देखें",
+    "zh-CN": "体验演示"
+  },
+  "cta_license": {
+    "en": "License Now",
+    "es": "Licenciar Ahora",
+    "fr": "Obtenir la Licence",
+    "ar": "الحصول على الترخيص الآن",
+    "hi": "लाइसेंस प्राप्त करें",
+    "zh-CN": "立即授权"
+  },
+  "cta_book": {
+    "en": "Book a Demo",
+    "es": "Reservar una Demostración",
+    "fr": "Réserver une Démo",
+    "ar": "احجز عرضًا",
+    "hi": "डेमो बुक करें",
+    "zh-CN": "预约演示"
+  }
+}
